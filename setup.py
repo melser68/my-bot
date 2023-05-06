@@ -1,8 +1,8 @@
 from setuptools import setup, find_namespace_packages
 
-setup(name='chat_bot', 
+setup(name='assistance_bot', 
       version='0.0.1',
-      description='chat_bot',
+      description='assistance_bot',
       url='https://github.com/melser68/my-bot',
       author='Python Core12 Team2',
       author_email='msprivate68@gmail.com',
